@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/jeoncheonwoo.iml" filepath="$PROJECT_DIR$/.idea/jeoncheonwoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/likelion-assignment-crud.main.iml" filepath="$PROJECT_DIR$/.idea/modules/likelion-assignment-crud.main.iml" />
+    </modules>
+  </component>
+</project>
